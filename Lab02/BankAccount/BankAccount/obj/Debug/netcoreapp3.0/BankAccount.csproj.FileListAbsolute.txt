@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.exe
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.deps.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\bin\Debug\netcoreapp3.0\BankAccount.pdb
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\BankAccount\BankAccount\obj\Debug\netcoreapp3.0\BankAccount.pdb

@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.exe
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.deps.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\bin\Debug\netcoreapp3.0\Greetings.pdb
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\obj\Debug\netcoreapp3.0\Greetings.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\obj\Debug\netcoreapp3.0\Greetings.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\obj\Debug\netcoreapp3.0\Greetings.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\obj\Debug\netcoreapp3.0\Greetings.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Greetings\Greetings\obj\Debug\netcoreapp3.0\Greetings.pdb

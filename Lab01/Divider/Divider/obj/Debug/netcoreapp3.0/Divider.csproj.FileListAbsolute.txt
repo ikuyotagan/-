@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.exe
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.deps.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\bin\Debug\netcoreapp3.0\Divider.pdb
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\obj\Debug\netcoreapp3.0\Divider.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\obj\Debug\netcoreapp3.0\Divider.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\obj\Debug\netcoreapp3.0\Divider.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\obj\Debug\netcoreapp3.0\Divider.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab01\Divider\Divider\obj\Debug\netcoreapp3.0\Divider.pdb

@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\bin\Debug\netcoreapp3.0\Distance.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\obj\Debug\netcoreapp3.0\Distance.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\obj\Debug\netcoreapp3.0\Distance.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\obj\Debug\netcoreapp3.0\Distance.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\obj\Debug\netcoreapp3.0\Distance.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab02\Distance\Distance\obj\Debug\netcoreapp3.0\Distance.pdb

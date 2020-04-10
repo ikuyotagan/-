@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.exe
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.deps.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\bin\Debug\netcoreapp3.0\StructType.pdb
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\obj\Debug\netcoreapp3.0\StructType.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\obj\Debug\netcoreapp3.0\StructType.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\obj\Debug\netcoreapp3.0\StructType.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\obj\Debug\netcoreapp3.0\StructType.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab02\StructType\StructType\obj\Debug\netcoreapp3.0\StructType.pdb

@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\bin\Debug\netcoreapp3.0\Ex3.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\obj\Debug\netcoreapp3.0\Ex3.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\obj\Debug\netcoreapp3.0\Ex3.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\obj\Debug\netcoreapp3.0\Ex3.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\obj\Debug\netcoreapp3.0\Ex3.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\Ex3\Ex3\obj\Debug\netcoreapp3.0\Ex3.pdb

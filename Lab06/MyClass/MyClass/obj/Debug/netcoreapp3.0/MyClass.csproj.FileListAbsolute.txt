@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\bin\Debug\netcoreapp3.0\MyClass.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.0\MyClass.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.0\MyClass.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.0\MyClass.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.0\MyClass.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab06\MyClass\MyClass\obj\Debug\netcoreapp3.0\MyClass.pdb

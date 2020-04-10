@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\bin\Debug\netcoreapp3.0\Visokosnost.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\obj\Debug\netcoreapp3.0\Visokosnost.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\obj\Debug\netcoreapp3.0\Visokosnost.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\obj\Debug\netcoreapp3.0\Visokosnost.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\obj\Debug\netcoreapp3.0\Visokosnost.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab03\Visokosnost\Visokosnost\obj\Debug\netcoreapp3.0\Visokosnost.pdb

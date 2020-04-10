@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.exe
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.deps.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\bin\Debug\netcoreapp3.0\Utils.pdb
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.0\Utils.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.0\Utils.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.0\Utils.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.0\Utils.dll
+C:\Users\MI\Desktop\Уник\2 курс\ТП\Labs\Lab04\Utils\Utils\obj\Debug\netcoreapp3.0\Utils.pdb

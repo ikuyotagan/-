@@ -1,0 +1,11 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\netcoreapp3.0\MatrixMultiply.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\netcoreapp3.0\MatrixMultiply.pdb

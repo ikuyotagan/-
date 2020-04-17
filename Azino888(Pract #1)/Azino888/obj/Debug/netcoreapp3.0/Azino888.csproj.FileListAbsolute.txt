@@ -1,0 +1,13 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\bin\Debug\netcoreapp3.0\Azino888.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Практики\Azino888\Azino888\obj\Debug\netcoreapp3.0\Azino888.genruntimeconfig.cache

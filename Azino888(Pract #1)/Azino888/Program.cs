@@ -2,7 +2,7 @@
 using System.IO;
 namespace Azino888
 {
-    class Program
+    class Azino888
     {
         static void Menu(ref int value)
         {

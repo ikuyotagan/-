@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZnP0E9BlupZXkt+1BptMUAzvgDv3bO6RTEVDSunH83M/ht7w1QHXm0syVujzzxefJ4hVrwSG2nod0qWuCJTqA==",
+  "dgSpecHash": "5LPWC+9f2ADJj1ATMqcZywenMZNJcTurYMm/1Zp0vnvwNkkUuYqm9OA8Zq0siMpOgYQFgDqQOdVkfh6lXSxfIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\Azino888.csproj",
+  "projectFilePath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\Azino888.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
     "C:\\Users\\MI\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

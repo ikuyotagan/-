@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\Azino888.csproj": {}
+    "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\Azino888.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\Azino888.csproj": {
+    "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\Azino888.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\Azino888.csproj",
+        "projectUniqueName": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\Azino888.csproj",
         "projectName": "Azino888",
-        "projectPath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\Azino888.csproj",
+        "projectPath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\Azino888.csproj",
         "packagesPath": "C:\\Users\\MI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888\\Azino888\\obj\\",
+        "outputPath": "C:\\Users\\MI\\Desktop\\Уник\\2 сем\\ТП\\Практики\\Azino888(Pract #1)\\Azino888\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MI\\AppData\\Roaming\\NuGet\\NuGet.Config",

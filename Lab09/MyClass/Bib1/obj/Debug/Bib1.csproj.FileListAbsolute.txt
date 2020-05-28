@@ -1,0 +1,6 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\bin\Debug\Bib1.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\bin\Debug\Bib1.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\obj\Debug\Bib1.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\obj\Debug\Bib1.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\obj\Debug\Bib1.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab09\MyClass\Bib1\obj\Debug\Bib1.pdb

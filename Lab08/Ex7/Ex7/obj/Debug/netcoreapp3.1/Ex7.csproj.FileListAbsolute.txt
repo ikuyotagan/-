@@ -1,0 +1,13 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.exe
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.runtimeconfig.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.runtimeconfig.dev.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\bin\Debug\netcoreapp3.1\Ex7.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\Labs\Lab07\Ex7\Ex7\obj\Debug\netcoreapp3.1\Ex7.genruntimeconfig.cache

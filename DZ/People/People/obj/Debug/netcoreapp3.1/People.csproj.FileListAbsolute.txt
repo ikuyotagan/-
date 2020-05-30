@@ -1,0 +1,9 @@
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.csproj.CoreCompileInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.AssemblyInfoInputs.cache
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.AssemblyInfo.cs
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\bin\Debug\netcoreapp3.1\People.deps.json
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\bin\Debug\netcoreapp3.1\People.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\bin\Debug\netcoreapp3.1\People.pdb
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.dll
+C:\Users\MI\Desktop\Уник\2 сем\ТП\DZ\People\People\obj\Debug\netcoreapp3.1\People.pdb
